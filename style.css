@@ -1,0 +1,120 @@
+p{
+    font-family:Montserrat ;
+    font-weight: 900;
+button{ margin-left: 20px;
+    margin-bottom: 10PX;
+    padding-inline: 20px;
+    padding-block: 10px;
+
+}
+
+}
+.topnav {
+    overflow: hidden;
+    background-color: #b17575;
+  }
+  
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: solid;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .topnav a.active {
+    background-color: #2196F3;
+        color: white;}
+ .topnav input[type=text] {
+      float: right;
+      padding: 6px;
+     border: none;
+     margin-top: 8px;
+     margin-right: 16px;
+     font-size: 17px;
+          }
+img{
+    display: flex;
+    border-radius: 10px;
+}
+.no1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wr{
+    background-color:rgb(10, 10, 10);
+    color: rgb(242, 247, 247);
+    cursor: pointer;
+    margin-left: 20px;
+    margin-bottom: 10PX;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border: 50px;
+    border-radius: none;
+    font-weight: 200;
+    font-size: large;
+    display: flex;
+   transition: box-shadow 1s ;
+
+    }
+.wr:hover{
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5)
+
+}
+.bm{
+    background-color: rgb(224, 211, 219);
+    font-size: larger;
+    display: flex;
+    margin-left: 20px;
+    border-color:rgba(73, 19, 199, 0.781);
+    padding-inline: 20px;
+    padding-block: 10px;
+    border-radius: 100px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    transition: background-color 1s;
+}   
+.bm:hover{
+    background-color: aqua;
+    cursor: cell ;
+
+}
+.bm:active{
+    color:red ;
+}
+.br{
+    background-color: rgb(46, 164, 79);
+    color: beige;
+    display: flex;
+    margin-left: 20px;
+    border: none;
+    text-align: center;
+    padding-right: 140px;
+    padding-inline: ;
+    padding-block: 10px;
+    margin-bottom: 20px
+    font-weight 
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px;
+
+}
+.dtd{
+    display: flex;
+    background-color: aqua;
+    vertical-align: auto;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border-radius: 100px;
+    font-weight: larger;
+    margin-bottom: 10px;
+    transition: background-color 1s;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium','Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    )
